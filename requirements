@@ -1,1 +1,15 @@
 python 3.8.5
+neccessary modules:
+gdown
+tensorflow
+tensorflow.keras
+tensorflow.keras.preprocessing.imag
+keras.models
+keras.backend
+opendatasets
+os
+IPython.display
+PIL
+cv2
+numpy
+matplotlib.pyplot
